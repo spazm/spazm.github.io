@@ -1,1 +1,2 @@
 *.odt diff=odt
+*.pdf diff=pdf
